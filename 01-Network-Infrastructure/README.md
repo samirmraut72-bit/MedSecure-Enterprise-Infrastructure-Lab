@@ -17,12 +17,17 @@ The detailed configuration remains in the [Network Administrator repository](htt
 
 ## Evidence
 
-![Enterprise topology](screenshots/enterprise-topology.png)
+### Enterprise topology
+![Enterprise topology](https://raw.githubusercontent.com/samirmraut72-bit/Network-Administrator./main/screenshots/01-full-topology.png)
 
-![OSPF routing](screenshots/ospf-routing.png)
+### OSPF routing
+![OSPF routing](https://raw.githubusercontent.com/samirmraut72-bit/Network-Administrator./main/screenshots/03-ospf-routing.png)
 
-![HSRP status](screenshots/hsrp-status.png)
+### HSRP gateway redundancy
+![HSRP status](https://raw.githubusercontent.com/samirmraut72-bit/Network-Administrator./main/screenshots/04-hsrp-status.png)
 
-![Branch to HQ connectivity](screenshots/branch-to-hq-connectivity.png)
+### Branch-to-HQ connectivity
+![Branch to HQ connectivity](https://raw.githubusercontent.com/samirmraut72-bit/Network-Administrator./main/screenshots/06-branch-hq-ping.png)
 
-![Port security](screenshots/port-security.png)
+### Port security
+![Port security](https://raw.githubusercontent.com/samirmraut72-bit/Network-Administrator./main/screenshots/07-port-security.png)
