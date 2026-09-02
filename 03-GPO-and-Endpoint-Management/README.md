@@ -11,8 +11,14 @@ This section shows how user and device settings can be centrally controlled rath
 
 ## Evidence
 
-![Group Policy structure](screenshots/group-policy-structure.jpg)
+### Group Policy structure
+![Group Policy structure](https://raw.githubusercontent.com/samirmraut72-bit/Junior-Systems-Administrator-Windows-Server-AD-Entra-ID-Intune-Lab/main/screenshots/03-domain-client-gpo/01-group-policy-domain-structure.jpg)
 
-![GPO security policy](screenshots/gpo-security-policy.jpg)
+### GPO security settings
+![GPO security policy](https://raw.githubusercontent.com/samirmraut72-bit/Junior-Systems-Administrator-Windows-Server-AD-Entra-ID-Intune-Lab/main/screenshots/03-domain-client-gpo/02-gpo-security-policy-settings.jpg)
 
-![Intune policy success](screenshots/intune-policy-success.jpg)
+### User restriction GPO
+![User restriction GPO](https://raw.githubusercontent.com/samirmraut72-bit/Junior-Systems-Administrator-Windows-Server-AD-Entra-ID-Intune-Lab/main/screenshots/03-domain-client-gpo/03-gpo-user-restrictions-link.jpg)
+
+### Intune policy success
+![Intune policy success](https://raw.githubusercontent.com/samirmraut72-bit/Junior-Systems-Administrator-Windows-Server-AD-Entra-ID-Intune-Lab/main/screenshots/06-intune/04-intune-display-policy-succeeded.jpg)
