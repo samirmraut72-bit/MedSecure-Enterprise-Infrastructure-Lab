@@ -13,8 +13,11 @@ The deep technical build remains in the [Windows Server / AD / Entra / Intune re
 
 ## Evidence
 
-![Active Directory domain](screenshots/active-directory-domain.jpg)
+### Active Directory domain
+![Active Directory domain](https://raw.githubusercontent.com/samirmraut72-bit/Junior-Systems-Administrator-Windows-Server-AD-Entra-ID-Intune-Lab/main/screenshots/02-windows-server-ad/01-active-directory-domain.jpg)
 
-![Sarah user account](screenshots/sarah-user-account.jpg)
+### Workforce account
+![Sarah user account](https://raw.githubusercontent.com/samirmraut72-bit/Junior-Systems-Administrator-Windows-Server-AD-Entra-ID-Intune-Lab/main/screenshots/02-windows-server-ad/02-sarah-williams-account.jpg)
 
-![DNS zones](screenshots/dns-zones.jpg)
+### DNS zones
+![DNS zones](https://raw.githubusercontent.com/samirmraut72-bit/Junior-Systems-Administrator-Windows-Server-AD-Entra-ID-Intune-Lab/main/screenshots/02-windows-server-ad/04-dns-server-zones.jpg)
