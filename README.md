@@ -45,21 +45,23 @@ The onboarding/offboarding section is being expanded as a dedicated lifecycle wo
 
 ## Highlighted evidence
 
+The screenshots below are curated directly from the specialist repositories so this main repo stays clean while the full evidence remains available in the source labs.
+
 ### Enterprise network
 
-![Enterprise topology](01-Network-Infrastructure/screenshots/enterprise-topology.png)
+![Enterprise topology](https://raw.githubusercontent.com/samirmraut72-bit/Network-Administrator./main/screenshots/01-full-topology.png)
 
 ### Active Directory
 
-![Active Directory domain](02-Windows-Server-Active-Directory/screenshots/active-directory-domain.jpg)
+![Active Directory domain](https://raw.githubusercontent.com/samirmraut72-bit/Junior-Systems-Administrator-Windows-Server-AD-Entra-ID-Intune-Lab/main/screenshots/02-windows-server-ad/01-active-directory-domain.jpg)
 
 ### Hybrid identity and Intune
 
-![Hybrid join](05-Hybrid-Identity-Entra-Intune/screenshots/dsregcmd-hybrid-join.jpg)
+![Hybrid join](https://raw.githubusercontent.com/samirmraut72-bit/Junior-Systems-Administrator-Windows-Server-AD-Entra-ID-Intune-Lab/main/screenshots/05-hybrid-identity/04-dsregcmd-hybrid-join-status.jpg)
 
 ### MedSecure workforce access
 
-![Nurse SSO dashboard](06-MedSecure-Application/screenshots/nurse-sso-dashboard.jpg)
+![Nurse SSO dashboard](https://raw.githubusercontent.com/samirmraut72-bit/Junior-Systems-Administrator-Windows-Server-AD-Entra-ID-Intune-Lab/main/screenshots/07-medsecure-login/03-nurse-dashboard-sso-success.jpg)
 
 ## Deep-dive repositories
 
